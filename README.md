@@ -1,4 +1,5 @@
 # sensitive-word-filter-cn
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/sensitive-word-filter-cn)
 
 **High-performance Chinese sensitive word filter with pinyin, symbol interference, and traditional/simplified variant detection.**
 
